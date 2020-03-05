@@ -10,7 +10,7 @@ def initialize(word)
  
  def match(array_words) 
    array_words.each do |words| 
-     @words 
+     @word.split("") 
    end
  end
  
