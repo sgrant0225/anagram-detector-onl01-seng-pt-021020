@@ -9,7 +9,7 @@ def initialize(word)
  end
  
  def match(array_words) 
-   binding.pry
+   
  end
  
    
