@@ -9,7 +9,7 @@ def initialize(word)
  end
  
  def match(word) 
-   
+   binding.pry
  end
  
    
