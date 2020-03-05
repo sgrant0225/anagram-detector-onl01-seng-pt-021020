@@ -8,7 +8,7 @@ def initialize(word)
   @word = word
  end
  
- def match(word) 
+ def match(array_words) 
    binding.pry
  end
  
